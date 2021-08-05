@@ -16,7 +16,7 @@ Numerator1.tif    (a multi frame signal for the numerator of the ratio)
 Denominator1.tif (a multi frame signal for the numerator of the ratio)
 Mask1.tif (a single frame image of the cell mask)
 
-	and similarly 
+and similarly: 
 
 Numerator2.tif    
 Denominator2.tif 

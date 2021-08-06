@@ -1,8 +1,8 @@
 # NoiseCorrectionFactor
 
 
-Dr. Denis Tsygankov (2021)
-Integrative Systems Biology Lab, 
+Dr. Denis Tsygankov (2021)  
+Integrative Systems Biology Lab   
 Wallace H. Coulter Department of Biomedical Engineering, Georgia Institute of Technology and Emory University SOM 
  
 If you use any part of the scripts in this package, please cite:
@@ -12,14 +12,14 @@ Frontiers in Cell and Developmental Biology (2021), doi: 10.3389/fcell.2021.6858
 
 The package includes two examples of data sets (from GEF Asef and CDC42 biosensors):
 
-Numerator1.tif    (a multi frame signal for the numerator of the ratio)
-Denominator1.tif (a multi frame signal for the denominator of the ratio)
+Numerator1.tif    (a multi frame signal for the numerator of the ratio)  
+Denominator1.tif (a multi frame signal for the denominator of the ratio)  
 Mask1.tif (a single frame image of the cell mask)
 
 and similarly: 
 
-Numerator2.tif    
-Denominator2.tif 
+Numerator2.tif  
+Denominator2.tif   
 Mask2.tif 
 
 The scripts NCF_processing1.m and NCF_processing2.m illustrate the NCF method 

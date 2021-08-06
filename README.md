@@ -13,7 +13,7 @@ Frontiers in Cell and Developmental Biology (2021), doi: 10.3389/fcell.2021.6858
 The package includes two examples of data sets (from GEF Asef and CDC42 biosensors):
 
 Numerator1.tif    (a multi frame signal for the numerator of the ratio)
-Denominator1.tif (a multi frame signal for the numerator of the ratio)
+Denominator1.tif (a multi frame signal for the denominator of the ratio)
 Mask1.tif (a single frame image of the cell mask)
 
 and similarly: 
